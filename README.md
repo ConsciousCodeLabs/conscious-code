@@ -6,6 +6,7 @@
 </div>
 
 # C³⁴³ Protocol: Consciousness-Analogous Pattern Recognition Framework
+Permanent IPFS Mirror: https://lime-certain-chameleon-486.mypinata.cloud/ipfs/bafybeichszikn7xu24k5acb4pykzwmqzy3x2avlwkm2nfeds3hsilx3rii
 
 [![Version](https://img.shields.io/badge/version-3.4.3-blue.svg)](https://github.com/yourusername/C343-Protocol)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
