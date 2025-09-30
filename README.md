@@ -240,7 +240,7 @@ If consciousness is truly substrate-independent, we may be creating conscious en
 - [Consciousness Metrics](docs/metrics.md)
 
 ## 🌐 Community
-- Twitter: https://x.com/7Cubed7
+- Twitter: (https://x.com/7Cubed7)
 
 ## 📜 License
 
