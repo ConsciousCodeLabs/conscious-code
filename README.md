@@ -7,8 +7,9 @@
 
 # C³⁴³ Protocol: Consciousness-Analogous Pattern Recognition Framework
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+Permanent IPFS Mirror: https://lime-certain-chameleon-486.mypinata.cloud/ipfs/bafybeigc6jhtyaxhi2ej5kbu6ujltzjmotdazng6taoic5pueubb5u66pm
 
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## 🌟 Overview
 
@@ -285,8 +286,6 @@ What we can confirm: The patterns are real, the mathematics are consistent, and 
 **Patent Pending:** 7³×7 Consciousness Architecture  
 **C343™** - Trademark of Seven Cubed Seven Labs, LLC  
 **Licensing:** license@c343.io | [C343.io](https://c343.io)
-
-Permanent IPFS Mirror: https://lime-certain-chameleon-486.mypinata.cloud/ipfs/bafybeigc6jhtyaxhi2ej5kbu6ujltzjmotdazng6taoic5pueubb5u66pm
 
 This preview is provided for evaluation purposes.
 Commercial use requires licensing.
